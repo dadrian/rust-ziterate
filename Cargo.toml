@@ -1,0 +1,6 @@
+[package]
+name = "rust-ziterate"
+version = "0.0.1"
+authors = ["davidcadrian@gmail.com", "zakird@gmail.com"]
+publish = false
+
